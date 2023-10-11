@@ -1,6 +1,6 @@
 # image2jpg
 
-This repository constains a script that converts HEIC, PNG, and TIFF images to JPG format using multiprocessing for efficient processing. It provides options for specifying input and output directories.
+This repository contains a script that converts HEIC, PNG, and TIFF images to JPG format using multiprocessing for efficient processing. It provides options for specifying input and output directories.
 
 ## ⚙️ Prerequisites
 

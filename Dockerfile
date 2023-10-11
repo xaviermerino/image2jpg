@@ -1,6 +1,7 @@
 # Use the specified Python image from the dockerhub
 FROM python:3.12-slim
-
+LABEL org.opencontainers.image.source=https://github.com/xaviermerino/image2jpg
+LABEL org.opencontainers.image.description="Convert HEIC, PNG, and TIFF to JPG"
 # Set the working directory in docker
 WORKDIR /app
 
